@@ -1,16 +1,15 @@
-### Hi there 👋
+¡Hola!👋😄
 
-<!--
-**EzAntoine/EzAntoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ezequiel, Full Stack Developer 💻, culminando mis formación en Henry. 
+Me introduje en el mundo de la programación en Ingeniería en Sistemas en Universidad Nacional del Sur. 
 
-Here are some ideas to get you started:
+Mi experiencia laboral abarca desde gastronomía, atención al público, emprendimientos propios y administración, hasta venta de entradas en recitales o coordinador de viajes a shows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mis pasiones son la música🎵, el teatro🎭 y el deporte ⚽, todo esto, junto con mi experiencia laboral me han hecho una persona muy versátil, desarrollando habilidades de trabajo en equipo, capacidad analítica, adaptabilidad, aprendizaje ágil, curiosidad, flexibilidad, capacidad crítica, mente abierta y empatía.
+
+Estoy ansioso por poder aportar mis conocimientos como desarrollador en tu equipo de trabajo y poder crear soluciones juntos 🚀
+
+📩 ezequielantoine@gmail.com
+📝 Linkedin: /ezequielantoine 
+📍  Argentina, Coronel Pringles
+📞 +542915047895
