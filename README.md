@@ -1,6 +1,6 @@
 ¡Hola!👋😄
 
-Soy Ezequiel, Full Stack Developer 💻, culminando mis formación en Henry. 
+Soy Ezequiel, Full Stack Developer 💻, culminando mi formación en Henry. 
 Me introduje en el mundo de la programación en Ingeniería en Sistemas en Universidad Nacional del Sur. 
 
 Mi experiencia laboral abarca desde gastronomía, atención al público, emprendimientos propios y administración, hasta venta de entradas en recitales o coordinador de viajes a shows.
