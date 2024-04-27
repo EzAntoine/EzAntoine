@@ -11,6 +11,6 @@ Estoy ansioso por poder aportar mis conocimientos como desarrollador en tu equip
 
 💼 https://ezequielantoine.vercel.app/
 📩 ezequielantoine@gmail.com
-📝 Linkedin: /ezequielantoine 
+📝 linkedin.com/in/ezequielantoine/ 
 📞 +542915047895
 📍  Argentina, Coronel Pringles
