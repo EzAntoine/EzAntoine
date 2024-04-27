@@ -9,8 +9,8 @@ Mis pasiones son la música, el teatro y el deporte, todo esto, junto con mi exp
 
 Estoy ansioso por poder aportar mis conocimientos como desarrollador en tu equipo de trabajo y poder crear soluciones juntos 🚀
 
-💼 https://ezequielantoine.vercel.app/
-📩 ezequielantoine@gmail.com
+💼 https://ezequielantoine.vercel.app/ 
+📩 ezequielantoine@gmail.com 
 📝 https://linkedin.com/in/ezequielantoine/ 
-📞 +542915047895
+📞 +542915047895 
 📍  Argentina, Coronel Pringles
