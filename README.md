@@ -5,7 +5,7 @@
 
 <p align="left">I'm Ezequiel, a coding enthusiast  with a soft spot for back-end development.<br><br>📚 I've got a formal education in software engineering from Universidad Nacional del Sur and Henry Bootcamp, but I'm also a self-taught programmer with a passion for continuous learning.<br><br>⚡My diverse work experience has made me a highly adaptable and versatile individual. I've honed my teamwork, critical thinking, problem-solving, and learning agility skills, and I'm always eager to explore new technologies and approaches. I'm also a curious, flexible, open-minded, and empathetic team player.<br><br>I'm chomping at the bit to contribute my dev skills to your team and collaborate on creating awesome solutions together 🚀<br><br>💼 https://ezequielantoine.vercel.app/</p>
 
-<div align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/ezequielantoine/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
